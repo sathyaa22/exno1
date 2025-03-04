@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/72305de1-44f2-4ae9-ad03-2994b082d9a0)# Exno:1
+![image](https://github.com/user-attachments/assets/8b917b5c-4b9d-4b8c-8b81-18af3881532e)![image](https://github.com/user-attachments/assets/72305de1-44f2-4ae9-ad03-2994b082d9a0)# Exno:1
 Data Cleaning Process
 
 ### Name: SATHYAA R
@@ -25,6 +25,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+
+  ## Data Cleaning
 
 ```
 import pandas as pd
@@ -81,7 +83,7 @@ data.isnull().any()
 data.dropna()
 ```
 
-![image](https://github.com/user-attachments/assets/a919f6f5-1465-4e98-8cda-08a3c0de0039)
+![image](https://github.com/user-attachments/assets/4c470ba4-4129-4480-b089-f680d2f618d0)
 
 
 ```
@@ -119,6 +121,8 @@ data.fillna({'GENDER':'MALE','NAME':'SRI','ADDRESS':'POONAMALEE','M1':98,'M2':87
 
 ![image](https://github.com/user-attachments/assets/23d83b93-da6a-4467-9c93-494c651c271d)
 
+
+  ## IQR (Inter Quartile Range)
 
 ```
 ir = pd.read_csv("iris.csv")
@@ -175,6 +179,8 @@ sns.boxplot(x='sepal_width',data=delid)
 
 ![image](https://github.com/user-attachments/assets/a10773d2-7edd-4c48-95e2-a6d7748bd219)
 
+
+  ## Z-Score
 
 ```
 import matplotlib.pyplot as plt
