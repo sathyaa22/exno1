@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8b917b5c-4b9d-4b8c-8b81-18af3881532e)![image](https://github.com/user-attachments/assets/72305de1-44f2-4ae9-ad03-2994b082d9a0)# Exno:1
+# Exp no: 1
+
 Data Cleaning Process
 
 ### Name: SATHYAA R
