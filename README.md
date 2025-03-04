@@ -27,6 +27,7 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 
+
   ## Data Cleaning
 
 ```
@@ -123,6 +124,7 @@ data.fillna({'GENDER':'MALE','NAME':'SRI','ADDRESS':'POONAMALEE','M1':98,'M2':87
 ![image](https://github.com/user-attachments/assets/23d83b93-da6a-4467-9c93-494c651c271d)
 
 
+
   ## IQR (Inter Quartile Range)
 
 ```
@@ -179,6 +181,7 @@ sns.boxplot(x='sepal_width',data=delid)
 ```
 
 ![image](https://github.com/user-attachments/assets/a10773d2-7edd-4c48-95e2-a6d7748bd219)
+
 
 
   ## Z-Score
