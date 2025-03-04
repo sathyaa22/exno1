@@ -1,4 +1,4 @@
-# Exno:1
+![image](https://github.com/user-attachments/assets/72305de1-44f2-4ae9-ad03-2994b082d9a0)# Exno:1
 Data Cleaning Process
 
 ### Name: SATHYAA R
@@ -32,7 +32,7 @@ data=pd.read_csv("SAMPLEIDS.csv")
 data
 ```
 
-![Screenshot 2025-03-04 103802](https://github.com/user-attachments/assets/b12c6545-79ca-4b94-85e3-3023e8bf63a1)
+![image](https://github.com/user-attachments/assets/f83515e4-a20e-44bc-9dec-2e992c3ef9f4)
 
 
 ```
@@ -46,21 +46,21 @@ data.head(9)
 data.tail(7)
 ```
 
-![image](https://github.com/user-attachments/assets/6f13eb70-aa80-426f-b2aa-bc226565e4f0)
+![image](https://github.com/user-attachments/assets/42e52a60-985d-4d0d-a63b-2106c966e31b)
 
 
 ```
 data.isnull()
 ```
 
-![image](https://github.com/user-attachments/assets/e2037705-4c96-4db5-b705-d32da252c0dc)
+![image](https://github.com/user-attachments/assets/216ebe4a-4fe7-4622-b41a-8d5050262cf8)
 
 
 ```
 data.notnull()
 ```
 
-![image](https://github.com/user-attachments/assets/3bfda718-5ec9-4c17-a146-123a8db74875)
+![image](https://github.com/user-attachments/assets/2c833aab-7b0d-4bd6-8096-d9ffc4f83d82)
 
 
 ```
